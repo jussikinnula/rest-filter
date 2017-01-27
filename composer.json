@@ -1,6 +1,6 @@
 {
     "name": "jussikinnula/wp-rest-filter",
     "description": "Restores the 'filter' param to post endpoints",
-    "homepage": "git@github.com:jussikinnula/rest-filter.git",
+    "homepage": "https://github.com:jussikinnula/rest-filter",
     "type": "wordpress-plugin"
 }
